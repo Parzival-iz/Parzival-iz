@@ -1,6 +1,6 @@
 <h2>Olá</h2>
 
-<p>Sou um desenvolvedor Front-end com conhecimento em HTML, CSS e Java Script.</p> 
+<p>Sou um desenvolvedor Front-end com conhecimento em HTML, CSS e Java Script, Node e React.</p> 
 <p>No momento estou aprendendo mais sobre Java Script e React.
 Meu objetivo é me tornar um Desenvolvedor Full-Stack e conseguir minha primeira vaga.</p>
 
