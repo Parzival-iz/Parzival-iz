@@ -43,8 +43,9 @@ Aqui estão alguns dos meus projetos principais:
 
 ---
 
-💬 **Estou aberto a colaborações e oportunidades. Ent
+## 📬 Contatos
+- **Email:** [saymonviana605@gmail.com](mailto:saymonviana605@gmail.com)  
+- **Telefone:** (77) 98802-8517  
+- **LinkedIn:** [www.linkedin.com/in/saymon-viana/](https://www.linkedin.com/in/saymon-viana/)  
 
-Email: saymonviana605@gmail.com
-Contato: (77) 98802-8517
-LinkedIn: www.linkedin.com/in/saymon-viana/
+💬 **Estou aberto a colaborações e oportunidades. Entre em contato comigo!**
