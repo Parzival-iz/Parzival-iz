@@ -1,42 +1,40 @@
-<h2>Olá</h2>
+# Olá 👋
 
-<p>Sou um desenvolvedor Front-end com conhecimento em HTML, CSS, Java Script, Node e React.</p> 
-<p>No momento estou aprendendo mais sobre Java Script e React.
-Meu objetivo é me tornar um Desenvolvedor Full-Stack e conseguir minha primeira vaga.</p>
+Sou um Desenvolvedor Front-End com conhecimento em **HTML**, **CSS**, **JavaScript**, **Node** e **React**. Tenho me dedicado a aprender continuamente e estou focado em me tornar um Desenvolvedor Full-Stack para alcançar minha primeira vaga na área de tecnologia.
 
+---
 
-<div>
- <h3>Skills:</h3>
- <img height="28px" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img height="28px" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img height="28px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=161b22">
- <img height="28px" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img height="28px" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
- <img height="28px" alt="GitHub" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white">
- <img height="28px" alt="Visual Studio Code" src="https://img.shields.io/badge/Virtual_Studio_Code-005f86?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- 
-</div>
+## 💻 Skills
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
+---
 
-#
+## 📚 Estudando no momento:
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 
-<div>
- <h3>Estudando no momento:</h3>
- <img height="28px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=161b22">
- <img height="28px" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
+---
 
-#
+## 🚀 Projetos
+Aqui estão alguns dos meus projetos principais:
+- **[Projeto 1](#)**: Uma breve descrição do projeto 1.
+- **[Projeto 2](#)**: Uma breve descrição do projeto 2.
+- **[Projeto 3](#)**: Uma breve descrição do projeto 3.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parzival-iz&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzival-iz)](https://github.com/anuraghazra/github-readme-stats)
+(Adicione links e descrições para seus projetos.)
 
-<br>
+---
 
-<div align="center">
- <h3>Contato:</h3>
- <a href="https://www.linkedin.com/in/saymon-viana-b99238272/" target="blank"><img alt="LinkedIn" height="24px" src="https://img.icons8.com/ios-glyphs/240/5289ab/linkedin-2--v1.png"></a>
- <a href="https://www.instagram.com/parzival_iz/" target="_blank"><img alt="Instagram" height="24px" src="https://img.icons8.com/material-outlined/192/5289ab/instagram-new--v1.png"></a>
- </div>
+## 📊 GitHub Stats
+![Saymon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parzival-iz&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parzival-iz&layout=compact&theme=radical)
 
+---
 
+💬 **Estou aberto a colaborações e oportunidades. Entre em contato comigo!**
