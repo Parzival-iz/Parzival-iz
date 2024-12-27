@@ -1,6 +1,6 @@
 # Olá 👋
 
-Sou um Desenvolvedor Front-End com conhecimento em **HTML**, **CSS**, **JavaScript**, **Node** e **React**. Tenho me dedicado a aprender continuamente e estou focado em me tornar um Desenvolvedor Full-Stack para alcançar minha primeira vaga na área de tecnologia.
+Sou um Desenvolvedor Full-Stack com conhecimento em **HTML**, **CSS**, **JavaScript**, **Node** e **React**. Tenho me dedicado a aprender continuamente e estou focado em me tornar um excelente profissional para alcançar minha primeira vaga na área de tecnologia.
 
 ---
 
