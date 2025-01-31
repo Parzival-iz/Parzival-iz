@@ -29,11 +29,10 @@ Sou um Desenvolvedor Full-Stack com conhecimento em **HTML**, **CSS**, **JavaScr
 
 ## 🚀 Projetos
 Aqui estão alguns dos meus projetos principais:
-- **[Projeto 1](#)**: Uma breve descrição do projeto 1.
-- **[Projeto 2](#)**: Uma breve descrição do projeto 2.
+- **[Projeto CRUD](https://github.com/Parzival-iz/8-CRUD)**: O famoso CRUD (Create, Read, Update, Delete).
+- **[Projeto Burguer](https://github.com/Parzival-iz/6-Burguer-js)**: Uma lista de sanduíches, permitindo os usuários filtrar as opções.
 - **[Projeto 3](#)**: Uma breve descrição do projeto 3.
 
-(Adicione links e descrições para seus projetos.)
 
 ---
 
