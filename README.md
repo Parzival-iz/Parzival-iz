@@ -31,7 +31,7 @@ Sou um Desenvolvedor Full-Stack com conhecimento em **HTML**, **CSS**, **JavaScr
 Aqui estão alguns dos meus projetos principais:
 - **[Projeto CRUD](https://github.com/Parzival-iz/8-CRUD)**: O famoso CRUD (Create, Read, Update, Delete).
 - **[Projeto Burguer](https://github.com/Parzival-iz/6-Burguer-js)**: Uma lista de sanduíches, permitindo os usuários filtrar as opções.
-- **[Projeto 3](#)**: Uma breve descrição do projeto 3.
+- **[Projeto Cadastro de Usuário](https://github.com/Parzival-iz/9-Cadastro-de-Usuario-DevClub)**: Um site capaz de criar, listar, atualizar e excluir um usuário.
 
 
 ---
